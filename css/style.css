@@ -64,6 +64,22 @@
     margin-right: 1.5%; }
   .work .right {
     margin-left: 1.5%; }
+  .work .card_1 {
+    background-image: url("../images/keyboard.jpg");
+    background-size: 100%;
+    background-position: 100% 100%; }
+  .work .card_2 {
+    background-image: url("../images/stackbooks.jpg");
+    background-size: 100%;
+    background-position: 100% 100%; }
+  .work .card_3 {
+    background-image: url("../images/projects.jpg");
+    background-size: 100%;
+    background-position: 100% 100%; }
+  .work .card_4 {
+    background-image: url("../images/road.jpg");
+    background-size: 100%;
+    background-position: 100% 100%; }
   .work .card_inner {
     display: table-cell;
     vertical-align: middle;

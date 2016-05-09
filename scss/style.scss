@@ -96,9 +96,22 @@ $grey: #414148;
     margin-left: 1.5%;
   }
 
-  //.card_1{
-    //@include bg_img('../images/keyboard.jpg', 100%, 100px 100px);
-  //}
+  .card_1{
+    @include bg_img('../images/keyboard.jpg', 100%, 100% 100%);
+  }
+
+  .card_2{
+    @include bg_img('../images/stackbooks.jpg', 100%, 100% 100%);
+  }
+
+  .card_3{
+    @include bg_img('../images/projects.jpg', 100%, 100% 100%);
+  }
+
+  .card_4{
+    @include bg_img('../images/road.jpg', 100%, 100% 100%);
+  }
+
   .card_inner{
     display: table-cell;
     vertical-align: middle;
